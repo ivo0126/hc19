@@ -1,5 +1,5 @@
-# demo-web
-Simple web project to serve as demo during the HackConf 2018 Git workshop
+# HC19
+Simple web project to serve as demo during the HackConf 2019 Git workshop
 
 THEME: Connect - Free Bootstrap Theme
 AUTHOR: uiCookies.com
