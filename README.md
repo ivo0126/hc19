@@ -1,4 +1,6 @@
 # HC19
+https://docs.google.com/presentation/d/1EF4o3YYM9nGymRqTOwKTug0OgfGZik46uxJCxDyEhkA/edit?usp=sharing
+
 Simple web project to serve as demo during the HackConf 2019 Git workshop
 
 THEME: Connect - Free Bootstrap Theme
